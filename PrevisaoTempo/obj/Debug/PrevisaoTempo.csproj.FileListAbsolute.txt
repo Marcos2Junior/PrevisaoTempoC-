@@ -1,0 +1,17 @@
+C:\Users\marcos.junior\Documents\Visual Studio 2012\Projects\PrevisaoTempo\PrevisaoTempo\bin\Debug\PrevisaoTempo.exe.config
+C:\Users\marcos.junior\Documents\Visual Studio 2012\Projects\PrevisaoTempo\PrevisaoTempo\bin\Debug\PrevisaoTempo.exe
+C:\Users\marcos.junior\Documents\Visual Studio 2012\Projects\PrevisaoTempo\PrevisaoTempo\bin\Debug\PrevisaoTempo.pdb
+C:\Users\marcos.junior\Documents\Visual Studio 2012\Projects\PrevisaoTempo\PrevisaoTempo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marcos.junior\Documents\Visual Studio 2012\Projects\PrevisaoTempo\PrevisaoTempo\bin\Debug\RestSharp.dll
+C:\Users\marcos.junior\Documents\Visual Studio 2012\Projects\PrevisaoTempo\PrevisaoTempo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marcos.junior\Documents\Visual Studio 2012\Projects\PrevisaoTempo\PrevisaoTempo\bin\Debug\RestSharp.xml
+C:\Users\marcos.junior\Documents\Visual Studio 2012\Projects\PrevisaoTempo\PrevisaoTempo\obj\Debug\PrevisaoTempo.Properties.Resources.resources
+C:\Users\marcos.junior\Documents\Visual Studio 2012\Projects\PrevisaoTempo\PrevisaoTempo\obj\Debug\PrevisaoTempo.csproj.GenerateResource.Cache
+C:\Users\marcos.junior\Documents\Visual Studio 2012\Projects\PrevisaoTempo\PrevisaoTempo\obj\Debug\PrevisaoTempo.exe
+C:\Users\marcos.junior\Documents\Visual Studio 2012\Projects\PrevisaoTempo\PrevisaoTempo\obj\Debug\PrevisaoTempo.pdb
+C:\Users\marcos.junior\Documents\Visual Studio 2012\Projects\PrevisaoTempo\PrevisaoTempo\bin\Debug\MetroFramework.dll
+C:\Users\marcos.junior\Documents\Visual Studio 2012\Projects\PrevisaoTempo\PrevisaoTempo\obj\Debug\PrevisaoTempo.FrmPrevisaoTempo.resources
+C:\Users\marcos.junior\Documents\Visual Studio 2012\Projects\PrevisaoTempo\PrevisaoTempo\obj\Debug\PrevisaoTempo.csprojResolveAssemblyReference.cache
+C:\Users\marcos.junior\Documents\Visual Studio 2012\Projects\PrevisaoTempo-sist\PrevisaoTempo\bin\Debug\PrevisaoTempo.exe.config
+C:\Users\marcos.junior\Documents\Visual Studio 2012\Projects\PrevisaoTempo-sist\PrevisaoTempo\obj\Debug\PrevisaoTempo.exe
+C:\Users\marcos.junior\Documents\Visual Studio 2012\Projects\PrevisaoTempo-sist\PrevisaoTempo\obj\Debug\PrevisaoTempo.pdb
